@@ -1,0 +1,153 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "All Nations Cafe V2",
+    "description": "",
+    "home_page_url": "https://allnations.cafe",
+    "feed_url": "https://allnations.cafe/feed.json",
+    "user_comment": "",
+    "icon": "https://allnations.cafe/media/website/logo-3.png",
+    "author": {
+        "name": "Greg Willson"
+    },
+    "items": [
+        {
+            "id": "https://allnations.cafe/art.html",
+            "url": "https://allnations.cafe/art.html",
+            "title": "Art",
+            "summary": "True to&hellip;",
+            "content_html": "<p>True to its spirit, the All Nations Café is focusing on bridging walls and creating closeness between Palestinians and Israelis and on inspiring a new generation of leaders and social innovators. As in its beginning, when the café was opened on the border of East and West Jerusalem, so it is today on the border of Palestine and Israel. In a fertile land that used to be No Man’s Land, and has become a military zone between the last houses of Palestinian villagers and the first houses of Israeli Jerusalemites. This way we have the great opportunity to bring people of both sides of the border, in an atmosphere of intimacy without intimidation, to come together and share their feelings, aspirations</p>\n<p> </p>",
+            "image": "https://allnations.cafe/media/posts/13/anc_art1.png",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T10:23:41-06:00",
+            "date_modified": "2021-06-08T00:43:27-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/meditation.html",
+            "url": "https://allnations.cafe/meditation.html",
+            "title": "Meditation",
+            "summary": "Meditation for&hellip;",
+            "content_html": "<p>Meditation for ANC Cafe.</p>\n<pre id=\"line1\">\"Intimate listening, spiritual openness and family-like celebration draw people of all nations to come together every week and bring their feelings, ideas and longings.\" - All Nations Cafe</pre>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T01:00:21-06:00",
+            "date_modified": "2021-06-08T00:55:23-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/dance.html",
+            "url": "https://allnations.cafe/dance.html",
+            "title": "Dance",
+            "summary": "Dance is&hellip;",
+            "content_html": "<p>Dance is an integral part of all ongoings at the ANC V.2  </p>\n<p>Instruction in various forms of dance will be pre-announced as agreements with instructors and informal dance is planned.</p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:59:13-06:00",
+            "date_modified": "2021-06-07T10:27:22-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/creative-writing.html",
+            "url": "https://allnations.cafe/creative-writing.html",
+            "title": "Creative writing",
+            "summary": " [2]&hellip;",
+            "content_html": "<p> </p>\n<p> </p>\n<p>[2]  <a href=\"https://pathwaystofamilywellness.org/PWConnect_nvc.pdf\">https://pathwaystofamilywellness.org/PWConnect_nvc.pdf</a> <span dir=\"ltr\">Nonviolent Communication and Handouts</span></p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:57:12-06:00",
+            "date_modified": "2021-06-07T10:27:43-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/appropriate-technology.html",
+            "url": "https://allnations.cafe/appropriate-technology.html",
+            "title": "Appropriate technology",
+            "summary": "Sustable practices&hellip;",
+            "content_html": "<h3><strong>Sustable practices relative to product and systems </strong></h3>\n<ul>\n<li>Resilient</li>\n<li>Can be valued for durability &amp; adadaprability</li>\n<li>Lifecycle of products.</li>\n<li>Adaptability, and longevity of service.</li>\n</ul>\n<p><em>  ( note: Public acceptance does not always corrolate as a metric evenly with )</em></p>\n<p> </p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:37:43-06:00",
+            "date_modified": "2021-06-07T10:27:53-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/sustainable-practices.html",
+            "url": "https://allnations.cafe/sustainable-practices.html",
+            "title": "Sustainable practices",
+            "summary": "Sustainable practices&hellip;",
+            "content_html": "<p>Sustainable practices relevant to the establishment of a Cafe , work-hub, and trainings.</p>\n<p><strong>Permaculture Techniques</strong></p>\n<ul>\n<li>Composting</li>\n<li>Drip Irrigation</li>\n<li>Fruit Tree Propagation</li>\n<li>Water Filtration Systems</li>\n<li>Pump Repair</li>\n<li>Seed Saving</li>\n</ul>\n<p><strong>Resources:</strong></p>\n<p> </p>\n<p> </p>\n<p><a href=\"#INTERNAL_LINK#/post/null\">https://www.youtube.com/watch?v=kazEAzGWuIc</a></p>\n<p> </p>\n<p><a href=\"#INTERNAL_LINK#/post/null\">https://library.uniteddiversity.coop/Permaculture/The_One_Straw_Revolution.pdf</a></p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:35:19-06:00",
+            "date_modified": "2021-06-08T01:59:24-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/leadership.html",
+            "url": "https://allnations.cafe/leadership.html",
+            "title": "Leadership",
+            "summary": "Leadership workshops&hellip;",
+            "content_html": "<p>Leadership workshops to be conducted both via online meetup and at in-person events.</p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:33:03-06:00",
+            "date_modified": "2021-06-07T00:33:03-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/non-violent-communication.html",
+            "url": "https://allnations.cafe/non-violent-communication.html",
+            "title": "Non-violent Communication",
+            "summary": " Nonviolent&hellip;",
+            "content_html": "<p> </p>\n<p><span dir=\"ltr\">Nonviolent Communication</span><span dir=\"ltr\">is based on the principle of ahimsa – the </span><span dir=\"ltr\">natural state of compassion when no violence is present in the heart. </span><span dir=\"ltr\">~Marshall Rosenberg</span><a href=\"#one\">[1]</a></p>\n<p>for instance.. \"r<span dir=\"ltr\">ather than saying, '</span><span dir=\"ltr\">Violence is wrong,' we would say, 'I value the resolution of conflicts </span><span dir=\"ltr\">through safe and peaceful means.' </span><span dir=\"ltr\">Nonviolent Communication posits that moralistic judgments</span><span dir=\"ltr\">–thoughts of </span><span dir=\"ltr\">criticism and blame–</span><span dir=\"ltr\">are at the root of violence.</span></p>\n<p>This awareness can be applied to three dimentions of life: personal, interpersonal, and societal.  ANC Non-violent Communication workshops explore the development of these dimentions of life.</p>\n<p>[1] - https://www.nonviolentcommunication.com/wp-content/uploads/2020/09/What-is-NVC-Information.pdf</p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:31:52-06:00",
+            "date_modified": "2021-06-07T00:48:43-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/business-development.html",
+            "url": "https://allnations.cafe/business-development.html",
+            "title": "Business development",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-07T00:21:24-06:00",
+            "date_modified": "2021-06-07T10:24:25-06:00"
+        },
+        {
+            "id": "https://allnations.cafe/technology.html",
+            "url": "https://allnations.cafe/technology.html",
+            "title": "Workshops and trainings",
+            "summary": "Inspire peace!&hellip;",
+            "content_html": "<h2><span style=\"color: #b96ad9;\">Inspire peace!</span></h2>\n<p><strong>All Nations Cafe Ver. 2.0</strong></p>\n<p>offering workshops and trainings in</p>\n<ul>\n<li>\n<p><a href=\"#INTERNAL_LINK#/post/null\">non violent communication</a></p>\n</li>\n<li><a href=\"https://allnations.cafe/meditation.html\">meditation</a></li>\n<li>music</li>\n<li><a href=\"https://allnations.cafe/art.html\">art</a></li>\n<li><a href=\"https://allnations.cafe/dance.html\">dance</a><a href=\"https://allnations.cafe/dance.html\"></a></li>\n<li><a href=\"https://allnations.cafe/creative-writing.html\">creative writing</a></li>\n<li><a href=\"https://allnations.cafe/business-development.html\">business development</a></li>\n<li><a href=\"https://allnations.cafe/appropriate-technology.html\">appropriate technology</a></li>\n<li><a href=\"https://allnations.cafe/sustainable-practices.html\">sustainable practices</a></li>\n<li><a href=\"https://allnations.cafe/leadership.html\">leadership</a></li>\n</ul>\n<p><strong>center for programming</strong></p>\n<p>All programming will be live- streamed to members around the world. ANC- Jerusalem will serve as a proof of concept for a future network of ANC cafes in major cities worldwide.</p>\n<p>Technology</p>\n<p>Waste management</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://allnations.cafe/media/posts/4/Screenshot_2021-06-06-25-YouTube.png\" sizes=\"(max-width: 1200px) 100vw, 1200px\" srcset=\"https://allnations.cafe/media/posts/4/responsive/Screenshot_2021-06-06-25-YouTube-xs.png 300w ,https://allnations.cafe/media/posts/4/responsive/Screenshot_2021-06-06-25-YouTube-sm.png 480w ,https://allnations.cafe/media/posts/4/responsive/Screenshot_2021-06-06-25-YouTube-md.png 749w ,https://allnations.cafe/media/posts/4/responsive/Screenshot_2021-06-06-25-YouTube-xl.png 1200w\"  alt=\"Biodigester Concept\" width=\"228\" height=\"167\"></figure>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Greg Willson"
+            },
+            "tags": [
+            ],
+            "date_published": "2021-06-06T23:45:39-06:00",
+            "date_modified": "2021-06-07T10:33:23-06:00"
+        }
+    ]
+}
